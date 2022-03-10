@@ -1,4 +1,15 @@
 ### Hi there 👋
+```js
+const engaudy = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, VbScript, Python, Java],
+  tools: [UFT, Selenium, Protractor, Cucumber, WebDriverIO, Chai, Docker, Jenkins, VSTS],
+  techCommunities: {
+                        community: "Under Test"
+                      },
+ challenge: "I've doing some researcing about machine learning and artifial intelligence. Focus on it!"
+}
+```
 
 <!--
 **engaudy/engaudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
