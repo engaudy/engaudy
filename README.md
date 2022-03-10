@@ -4,11 +4,11 @@
 const engaudy = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, VbScript, Python, Java],
-  tools: [UFT, Selenium, Protractor, Cucumber, WebDriverIO, Chai, Docker, Jenkins, VSTS],
+  tools: [UFT, Selenium, Protractor, Cucumber, WebDriverIO, Chai, Docker, Jenkins, Azure Devops],
   techCommunities: {
                         community: "Under Test"
                       },
- challenge: "I've doing some researcing about machine learning and artifial intelligence. Focus on it!"
+ challenge: "I've doing some researcing about machine learning and artificial intelligence. Focus on it!"
 }
 ```
 
