@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Audy 👋
+
 ```js
 const engaudy = {
   pronouns: "he" | "him",
@@ -11,17 +12,10 @@ const engaudy = {
 }
 ```
 
-<!--
-**engaudy/engaudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Quality Assurance Engineer with more 11 years of experience in software testing and test automation. I’ve worked with companies in Latam and the USA, and have been successful in integrating into multicultural teams in those companies.
 
-Here are some ideas to get you started:
+Aside from my technical expertise, I’m a team player, with management and project coordination experience. I’m also a responsible, tolerant, and respectful individual with good interpersonal skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning machine learning and artificila intelligene
+- 👯 I’m looking to collaborate on QA and QA Automation
+- 💬 Ask me about Quality Assurance
