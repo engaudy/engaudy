@@ -8,7 +8,7 @@ const engaudy = {
   techCommunities: {
                         community: "Under Test"
                       },
- challenge: "I've doing some researcing about machine learning and artificial intelligence. Focus on it!"
+ challenge: "I've been doing some research about machine learning and artificial intelligence. Focus on it!"
 }
 ```
 
