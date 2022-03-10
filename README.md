@@ -16,6 +16,6 @@ I’m a Software Quality Assurance Engineer with more 11 years of experience in 
 
 Aside from my technical expertise, I’m a team player, with management and project coordination experience. I’m also a responsible, tolerant, and respectful individual with good interpersonal skills.
 
-- 🌱 I’m currently learning machine learning and artificila intelligene
+- 🌱 I’m currently learning machine learning and artificial intelligence
 - 👯 I’m looking to collaborate on QA and QA Automation
 - 💬 Ask me about Quality Assurance
