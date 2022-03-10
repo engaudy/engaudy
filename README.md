@@ -11,6 +11,7 @@ const engaudy = {
  challenge: "I've been doing some research about machine learning and artificial intelligence. Focus on it!"
 }
 ```
+![engaudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=engaudy&show_icons=true&theme=radical)
 
 I’m a Software Quality Assurance Engineer with more 11 years of experience in software testing and test automation. I’ve worked with companies in Latam and the USA, and have been successful in integrating into multicultural teams in those companies.
 
